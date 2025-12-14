@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo>
+  <nombre>FC Barcelona</nombre>
+  <entrenador>Xavi Hernández</entrenador>
+  <jugadores>
+    <jugador>
+      <nombre>Pedri</nombre>
+      <posicion>Centrocampista</posicion>
+      <dorsal>8</dorsal>
+      <nacionalidad>España</nacionalidad>
+    </jugador>
+    <jugador>
+      <nombre>Marc-André ter Stegen</nombre>
+      <posicion>Portero</posicion>
+      <dorsal>1</dorsal>
+      <nacionalidad>Alemania</nacionalidad>
+    </jugador>
+    <jugador>
+      <nombre>Ronald Araújo</nombre>
+      <posicion>Defensa</posicion>
+      <dorsal>4</dorsal>
+      <nacionalidad>Uruguay</nacionalidad>
+    </jugador>
+    <jugador>
+      <nombre>Frenkie de Jong</nombre>
+      <posicion>Centrocampista</posicion>
+      <dorsal>21</dorsal>
+      <nacionalidad>Países Bajos</nacionalidad>
+    </jugador>
+    <jugador>
+      <nombre>João Félix</nombre>
+      <posicion>Delantero</posicion>
+      <dorsal>14</dorsal>
+      <nacionalidad>Portugal</nacionalidad>
+    </jugador>
+  </jugadores>
+</equipo>
